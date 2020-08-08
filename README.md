@@ -5,4 +5,4 @@ Run python Main.py
 
 by default, 3-group diffusion calculation will conducted.
 
-src_m is another version that can read external XS data, and call additional packages to solve the equations, also 3-region implementation is included.
+src_m is another version that can read external XS data, and call additional packages to solve the equations, also 3-region implementation is included in src_m/HDDBEM.py
